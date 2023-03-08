@@ -1,0 +1,1 @@
+# GAN_MnBi2Te4_magnetization_generation
